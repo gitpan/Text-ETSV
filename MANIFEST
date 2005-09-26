@@ -1,0 +1,7 @@
+Changes     for the revision history
+ETSV.pm     Manipulate ETSV (Enhanced Tab Separated Values)
+Makefile.PL writes the Makefile
+MANIFEST    (this file)
+README      for the short descriptions about install
+t/ETSV.t    test script for the Text::ETSV
+META.yml                                 Module meta-data (added by MakeMaker)
